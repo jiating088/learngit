@@ -12,3 +12,5 @@ Git has a mutable index called stage.
 
 
 add
+
+add1
